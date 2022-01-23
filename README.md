@@ -1,7 +1,7 @@
 ## So u found me. What now? Don't be shy!
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xEdziu&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-### 📫 How to reach me? EMAIL !
+### 📫 How to reach me? Write to me :D
 adrian.goral@gmail.com
 
 <!--
