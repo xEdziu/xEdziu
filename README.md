@@ -6,8 +6,6 @@
 ### 📫 How to reach me?
 adrian.goral@gmail.com
 
-[![Top Langs](https://kamiloox-countdown.herokuapp.com)](https://github.com/xEdziu/Fabric-Mod-Course)
-
 <!--
 **xEdziu/xEdziu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
