@@ -12,6 +12,7 @@
   <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   <img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   <img alt="nvidia" src="https://img.shields.io/badge/NVIDIA-GTX1060-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry Pi 4B+-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
 </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xEdziu&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
