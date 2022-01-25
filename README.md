@@ -7,7 +7,12 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt="VS Code" src="https://img.shields.io/badge/VSCode-1f425f?style=for-the-badge&logo=VisualStudioCode&logoColor=white" />
+  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
   <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=for-the-badge&logo=brave&logoColor=white" />
+  <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  <img alt="Brave browser" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  <img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img alt="nvidia" src="https://img.shields.io/badge/NVIDIA-GTX1060-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xEdziu&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
