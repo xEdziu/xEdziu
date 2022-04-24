@@ -22,7 +22,7 @@
 
 
 ## I am using
-<p>
+<div align="center">
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -35,7 +35,7 @@
   <img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   <img alt="nvidia" src="https://img.shields.io/badge/NVIDIA-GTX1060-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
   <img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry Pi 4B+-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
-</p>
+</div>
 
 <br/>  
 
