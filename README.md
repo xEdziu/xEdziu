@@ -1,6 +1,27 @@
-## Hello!
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 500px; height:auto" />
+</div>  
+  
+
+### <div align="center">I'm Adrian, a junior Java and PHP developer 👨‍💻</div>  
+  
+
+- 🔭 I’m currently working on [KeepMyPassword-Destkop](https://github.com/xEdziu/KeepMyPassword-Desktop/)  
+  
+
+- 🌱 I’m currently learning JavaFx library  
+  
+
+- 😼 I am going to learn in field of cybersecurity in the nearest future  
+  
+
+- ⚡ I am from Poland and I love mountains  
+  
+
+<br/>  
 
 
+## My Skill Set  
 <p>
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
@@ -16,24 +37,66 @@
   <img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry Pi 4B+-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xEdziu&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<br/>  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xEdziu&layout=compact&theme=dracula&hide=blade,html,javascript,scss,css,shell)](https://github.com/anuraghazra/github-readme-stats)
 
-### 📫 How to reach me?
-adrian.goral@gmail.com
+## Connect with me  
+<div align="center">
+<a href="https://github.com/xEdziu" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://stackoverflow.com/users/11461574/xedziu" target="_blank">
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/AdrianEdziu" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/adrian-goral-7a651a203" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/adrian.goral.6" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
 
-<!--
-**xEdziu/xEdziu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=xEdziu&count_private=true&show_icons=true&theme=dracula" align="center" /></div>  
+<br/>  <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xEdziu&layout=compact&theme=dracula&hide=blade,html,javascript,scss,css,shell" align="center" /></div>  
+
+<br/>  
+  
+
+<br/>
+
+## Recently listened to:
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31zny23tjhcbmm4xai3gxe2yiium&cover_image=true&theme=default&bar_color_cover=true" /></div>  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=xEdziu&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>
+
+<div align="center">
+            <a href="https://paypal.me/Edziu06" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" 
+                    align="center"
+                />
+            </a></div>
+<div align="center">
+            <a href="https://github.com/sponsors/xEdziu" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Sponsor-Github-d360a3"
+                    align="center"
+                />
+            </a></div>
+<br />
