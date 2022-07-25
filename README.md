@@ -33,7 +33,7 @@
   <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=for-the-badge&logo=brave&logoColor=white" />
   <a href="https://discordapp.com/users/240841326386610177/"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  <img alt="nvidia" src="https://img.shields.io/badge/NVIDIA-GTX1060-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img alt="nvidia" src="https://img.shields.io/badge/NVIDIA-RTX3060-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
   <img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry Pi 4B+-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
 </div>
 
