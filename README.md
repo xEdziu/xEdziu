@@ -6,10 +6,10 @@
 ### <div align="center">I'm Adrian, a junior Java and PHP developer 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on [KeepMyPassword-Destkop](https://github.com/xEdziu/KeepMyPassword-Desktop/) and my own [Project50 Site](https://github.com/xEdziu/project50)
+- 🔭 I’m currently working on [KeepMyPassword-Destkop](https://github.com/xEdziu/KeepMyPassword-Desktop/)
   
 
-- 🌱 I’m currently improving my PHP skills and starting to learn about backend Java 
+- 🌱 I’m currently learning backend Java 
   
 
 - 😼 I am going to learn in field of cybersecurity in the nearest future  
