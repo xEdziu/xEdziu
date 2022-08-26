@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [KeepMyPassword-Destkop](https://github.com/xEdziu/KeepMyPassword-Desktop/)
   
 
-- 🌱 I’m currently learning backend Java 
+- 🌱 I’m currently learning backend Java (Spring Boot)
   
 
 - 😼 I am going to learn in field of cybersecurity in the nearest future  
