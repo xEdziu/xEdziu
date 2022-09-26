@@ -12,9 +12,6 @@
 - 🌱 I’m currently learning backend Java (Spring Boot)
   
 
-- 😼 I am going to learn in field of cybersecurity in the nearest future  
-  
-
 - ⚡ I am from Poland and I love mountains  
   
 
