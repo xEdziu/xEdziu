@@ -1,8 +1,4 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 500px; height:auto" />
-</div>  
-  
-
+  [![@eddy's Holopin board](https://holopin.io/api/user/board?user=eddy)](https://holopin.io/@eddy)
 ### <div align="center">I'm Adrian, a junior Java and PHP developer 👨‍💻</div>  
   
 
