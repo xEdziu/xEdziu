@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on [KeepMyPassword-Destkop](https://github.com/xEdziu/KeepMyPassword-Desktop/)
   
 
-- 🌱 I’m currently learning backend Java (Spring Boot)
+- 🌱 I’m currently learning how to be good server admin
   
 
 - ⚡ I am from Poland and I love mountains  
