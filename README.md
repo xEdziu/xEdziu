@@ -1,18 +1,27 @@
   [![@eddy's Holopin board](https://holopin.io/api/user/board?user=eddy)](https://holopin.io/@eddy)
-### <div align="center">I'm Adrian, a junior Java and PHP developer 👨‍💻</div>  
+### <div align="center">Hi, I am Adrian, welcome! 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on [KeepMyPassword-Destkop](https://github.com/xEdziu/KeepMyPassword-Desktop/)
+- 🔭 CO-CEO of [WebAce Group](https://github.com/WebAce-Group)
+
+
+- 🖥️ Server Admin and Maintainer of home server on RaspberryPi
   
 
-- 🌱 I’m currently learning how to be good server admin
+- 🌱 Coding mostly in Java and PHP
   
 
-- ⚡ I am from Poland and I love mountains  
+- ⚡ Student of [Wrocław Univeristy of Science and Technology](https://pwr.edu.pl/en/) majoring in IT Automation Systems
+
+
+- ✨ Most advanced project: [KeepMyPassword for Desktop](https://github.com/xEdziu/KeepMyPassword-Desktop)
   
 
-<br/>  
+<br/>
 
+## Who I am?
+
+I am backend developer and server administrator with a strong preference for Java and PHP programming languages. My expertise lies in designing and implementing secure backend systems that power web applications. I am well-versed in server administration, with a deep understanding of server hardware, network protocols, and operating systems. I enjoy managing server infrastructure and ensuring that applications run smoothly and efficiently. I have experience working with databases, web servers, and other backend technologies.
 
 ## I am using
 <div align="center">
@@ -20,13 +29,7 @@
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
-  <img alt="VS Code" src="https://img.shields.io/badge/VSCode-1f425f?style=for-the-badge&logo=VisualStudioCode&logoColor=white" />
-  <img alt="Sublime Text" src="https://img.shields.io/badge/Sublime Text-4A4A4A?style=for-the-badge&logo=sublimetext&logoColor=FF9800" />
-  <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=for-the-badge&logo=brave&logoColor=white" />
   <a href="https://discordapp.com/users/240841326386610177/"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  <img alt="nvidia" src="https://img.shields.io/badge/NVIDIA-RTX3060-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
   <img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry Pi 4B+-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
 </div>
 
@@ -38,8 +41,6 @@
 <a href="https://github.com/xEdziu" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://stackoverflow.com/users/11461574/xedziu" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.facebook.com/adrian.goral.6" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
