@@ -21,7 +21,7 @@
 
 ## Who I am?
 
-I am a backend developer and server administrator with a strong preference for Java and PHP programming languages. My expertise lies in designing and implementing secure backend systems that power web applications. I am well-versed in server administration, with a deep understanding of server hardware, network protocols and operating systems. I enjoy managing server infrastructure and ensuring that applications run smoothly and efficiently. I have experience working with databases, web servers and other backend technologies. In addition to mine technical skills, I'm passionate about teaching and mentoring others. I love to share my knowledge and experience with others and I have taken on the role of a tutor to help aspiring developers gain experience and grow their skills. 
+I am a backend developer and server administrator with a strong preference for Java and PHP programming languages. My expertise lies in designing and implementing secure backend systems that power web applications. I am well-versed in server administration, with a deep understanding of server hardware, network protocols and operating systems. I enjoy managing server infrastructure and ensuring that applications run smoothly and efficiently. I have experience working with databases, web servers and other backend technologies. In addition to my technical skills, I'm passionate about teaching and mentoring others. I love to share my knowledge and experience with people and I have taken on the role of a tutor to help aspiring developers gain experience and grow their skills. 
 
 ## I am using
 <div align="center">
