@@ -14,7 +14,7 @@
 - ⚡ Student of [Wrocław Univeristy of Science and Technology](https://pwr.edu.pl/en/) majoring in IT Automation Systems
 
 
-- ✨ Most advanced project: [KeepMyPassword for Desktop](https://github.com/xEdziu/KeepMyPassword-Desktop)
+- ✨ Most favourite projects: [KeepMyPassword for Desktop](https://github.com/xEdziu/KeepMyPassword-Desktop) and [WaterMarker](https://github.com/WebAce-Group/WaterMarker)
   
 
 <br/>
