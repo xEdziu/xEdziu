@@ -1,9 +1,5 @@
   [![@eddy's Holopin board](https://holopin.io/api/user/board?user=eddy)](https://holopin.io/@eddy)
-### <div align="center">Hi, I am Adrian, welcome! 👨‍💻</div>  
-  
-
-- 🔭 CO-CEO of [WebAce Group](https://github.com/WebAce-Group)
-
+### <div align="center">Hi, I am Adrian, welcome! 👨‍💻</div>
 
 - 🖥️ Server Admin and Maintainer of home server on RaspberryPi
   
