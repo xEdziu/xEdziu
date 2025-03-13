@@ -26,7 +26,7 @@ I am a backend developer and server administrator with a strong preference for J
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <a href="https://discordapp.com/users/240841326386610177/"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry Pi 4B+-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+  <img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry Pi 5-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
 </div>
 
 <br/>  
