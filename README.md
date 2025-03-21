@@ -41,9 +41,7 @@ I am a backend developer and server administrator with a strong preference for J
 <a href="https://www.facebook.com/adrian.goral.6" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>  
-</div>  
-  
-
+</div>
 <br/> 
 <div align="center">
             <a href="https://github.com/sponsors/xEdziu" target="_blank" style="display: inline-block;">
@@ -53,3 +51,11 @@ I am a backend developer and server administrator with a strong preference for J
                 />
             </a></div>
 <br />
+
+<div align="center">
+  
+[![github-foundations-256-256](https://github.com/user-attachments/assets/61b1a972-2d8b-4f6d-bd69-65213d3daf97)](https://www.credly.com/badges/62ce5b2a-251d-4700-8056-b77a4fe33390/)
+
+</div>
+  
+
